@@ -4,16 +4,22 @@ div.a {
 * {
     -webkit-padding-start: 0px;
 }
-
+body {
+    margin-top: 10%;
+}
 div {
     text-align: center;
     margin: auto;
+}
+h1 {
+    color: white;
 }
 
 p {
     margin: auto;
     width: 60%;
     padding: 10px;
+    color: wheat;
 }
 a, a img {text-decoration: none;}
 
@@ -40,4 +46,5 @@ li img {
     margin-right: 15px;
     margin-left: 15px;
     font-family:courier;
+    color: white;
 }
